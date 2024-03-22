@@ -1,1 +1,3 @@
 # Questao 12
+---
+- Esse código Java calcula o aumento salarial de funcionários com base em seus cargos. Ele solicita ao usuário que informe o cargo do funcionário e o salário atual, e então calcula e exibe o aumento e o novo salário de acordo com regras específicas para cada cargo. O aumento varia de 50% para Escriturário a nenhum aumento para Diretor. Se o usuário informar um cargo inválido, o programa exibe uma mensagem indicando que o cargo é inexistente.
